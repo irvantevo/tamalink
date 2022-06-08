@@ -1,4 +1,4 @@
-<!-- LINKEASY BY MATTHIAS CLAUDIUS REEF - V1.0 -->
+<!-- LINKEASY BY PUTRA IRVAN - V1.0 -->
 <?php
 /*
 GRAVATAR INTEGARAION
@@ -131,7 +131,7 @@ function get_gravatar( $email, $s = 80, $d = 'mp', $r = 'g', $img = false, $atts
 <div class="section padding-bottom-100 center-align">
 	<!-- COPYRIGHT TEXT - DO NOT CHANGE EXCEPT FOR IMPRINT & PRIVACY-->
 	<small class="light-grey">&copy; 2022 Tama Digital Limited</small></br>
-	<small class="light-grey"><a href="https://github.com/irvantevo/" class="preul underline">Made with TamaLink</a></small>
+	<small class="light-grey"><a href="https://github.com/irvantevo/tamalink" class="preul underline">Made with TamaLink</a></small>
 </div>
 
 </body>
