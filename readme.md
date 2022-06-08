@@ -1,16 +1,13 @@
 # 🔗 TamaLink
 
-TamaLink is a minimalistic self-hosted PHP "Linktree" or "LinkedIn Bio" alternative. With the Integration of Gravatar for automatic Profile Picture Updates and Google Analytics for tracking.
+TamaLink adalah alternatif PHP "Linktree" atau "LinkedIn Bio" yang dihosting sendiri dengan minimalis. Dengan Integrasi Gravatar untuk Pembaruan Gambar Profil otomatis dan Google Analytics untuk pelacakan.
 
-## Contributing
-Feel free to open a pull request adding new features or removing something that's not working anymore. We can build a good self-hosted Linktree Alternative with your help!
+## Berkontribusi
+Jangan ragu untuk membuka permintaan tarik dengan menambahkan fitur baru atau menghapus sesuatu yang tidak berfungsi lagi. Kami dapat membangun Alternatif Linktree yang dihosting sendiri dengan bantuan Anda!
 
-For major changes, please open an issue first to discuss what you would like to change.
+Untuk perubahan besar, silakan buka masalah terlebih dahulu untuk mendiskusikan apa yang ingin Anda ubah.
 
-Please make sure to update the tests as appropriate.
+Pastikan untuk memperbarui tes yang sesuai.
 
-## License
-[GPL 2.0](https://choosealicense.com/licenses/gpl-2.0/)
-
-## Copyright
+## Hak Cipta
 © 2022 [Putra Irvan](https://putrairvan.com)
